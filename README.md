@@ -58,7 +58,7 @@ Now the api should be accessible from `http://local_ip:8000`
 
 To access an api playground go to `http://local_ip:8000/docs`
 
-_For more information, please refer to the [Documentation](https://example.com)_
+_For more information, please refer to the [Documentation](https://openscan-org.github.io/OpenScan-Doc/)_
 
 
 
